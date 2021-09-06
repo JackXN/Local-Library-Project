@@ -9,6 +9,7 @@
   "scripts": {
     "start": "live-server public/",
     "test": "mocha test/*.test.js"
+
   },
   "keywords": [],
   "author": "",
