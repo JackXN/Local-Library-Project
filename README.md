@@ -4,21 +4,23 @@
 
 ### Overview
 
-**The Local Library Dashboard** Is designed to keep track of 
-### API Docs
+**The Local Library Dashboard** 
+The Local Library is designed to keep track data such as the most common genres, the most popular books, and authors. It also keeps track of general stats like the amount of books in-stock, books being borrowed,
+and the amount of registered accounts with the library.
 
-### /Dashboard (/)
+
+### Dashboard
 The main url will always redirect to the dahsboard which will default to displaying the tables and the current date's as reservations. 
+
+The main url will always redirect to the overall stats of the library where you can easily identify the overall status of the library.
 ![dashboard](./public/screenshots/Dashboard.png)
 
 <hr>
 
-### /reservations/new
-Clicking new reservation in the menu on the left or top of the screen will navigate you to the new reservation page where you can create a new reservation and post to the dashboard. 
+### Stats by Book
+This gives the user an overall look at the status of books along with some general information on the book such as the author and genre. It lets the user see what books have been returned and what books are still being borrowed.
 
-![new-reservation](./app-screenshots/NewReservation.png)
-
-Upon submitting a reservation the dashboard will display the reservations for the date of reservation last created. Reservations have a status that defaults to "booked" which allows the user to edit, seat, or cancel a reservation.
+![new-reservation](./public/screenshots/StatsByBook.png)
 
 <hr>
 
