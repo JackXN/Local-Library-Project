@@ -32,9 +32,3 @@ This page gives the user an overview of Account stats that display the name and 
 
 <hr>
 
-
-### main stack
--- HTML
--- CSS
--- Javascript
-
