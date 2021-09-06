@@ -4,13 +4,12 @@
 
 ### Overview
 
-**Periodic Tables** is designed to help restaurants manage reservations and tables and keep track of customer data on an easy-to-use platform. Users can create and edit reservations, create tables, assign reservations to tables, and search for reservations by a customer's phone number. This basic functionality alleviates a restaurant's need to keep paper documentation of reservations and table availability, by automating these processes. This ensures better management of reservations and keeps a digital record of all information so nothing is lost or forgotten.  
-
+**The Local Library Dashboard** Is designed to keep track of 
 ### API Docs
 
 ### /Dashboard (/)
 The main url will always redirect to the dahsboard which will default to displaying the tables and the current date's as reservations. 
-![dashboard](./app-screenshots/Dashboard.png)
+![dashboard](./public/screenshots/Dashboard.png)
 
 <hr>
 
